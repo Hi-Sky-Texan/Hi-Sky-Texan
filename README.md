@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hi-Sky-Texan
 - 👀 I’m interested in learning Data Science
 - 🌱 I’m currently learning Python and Statistics
-- 💞️ I’m looking to collaborate on app development
+- 💞️ I’m looking to collaborate on apps development
 - 📫 How to reach me odoyath1969@protonmail.com
 
 <!---
